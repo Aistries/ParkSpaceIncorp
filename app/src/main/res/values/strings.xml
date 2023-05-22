@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ParkSpaceInc</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">ParkSpace Finder</string>
+    <string name="nav_header_subtitle">aistries@king.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_search">Search nearby</string>
+    <string name="menu_maps">Maps</string>
+    <string name="menu_about">About</string>
+    <string name="menu_logout">Logout</string>
+    <string name="todo">TODO</string>
+    <string name="goto_maps">GOTO MAPS</string>
+    <string name="fragmaps">fragmaps</string>
+    <string name="aboutstatement">Get the best ParkingSpace within your area in just a few minutes. Through our navigation system, Thanks to Andati Industries, you will find it quite easy and very convenient to navigate and have just a great day ahead!</string>
+</resources>
